@@ -54,12 +54,12 @@ If you're uncomfortable using a `.bat` file to handle opening Google files, ther
 
 ## Google Files Icons
 
-The icons to each type of google file are present in the `docs/icons` directory. Below are the links to each icon for reference.
+The icons to each type of google file are present in the `docs/icons` directory. These icons can be found at [https://about.google/brand-resource-center/logos-list/](https://about.google/brand-resource-center/logos-list/) along with icons for other Google-owned products and services.
 
-- [Google Docs](https://ssl.gstatic.com/docs/documents/images/kix-favicon-2023q4.ico)
-- [Google Slides](https://ssl.gstatic.com/docs/spreadsheets/spreadsheets_2023q4.ico)
-- [Google Sheets](https://ssl.gstatic.com/docs/presentations/images/favicon-2023q4.ico)
-- [Google Forms](view-source:https://docs.google.com/forms/u/0/)
+- [Google Docs](docs/icons/GoogleDocs_Icon.png)
+- [Google Slides](docs/icons/GoogleSlides_Icon.png)
+- [Google Sheets](docs/icons/GoogleSheets_Icon.png)
+- [Google Forms](docs/icons/GoogleForms_Icon.png)
 
 # Contact & FAQs
 
